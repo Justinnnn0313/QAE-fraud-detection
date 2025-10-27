@@ -1,0 +1,12 @@
+*.csv
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+*.swp
+outputs/
+qae_qad_pca5000_outputs/
+.DS_Store
